@@ -20,11 +20,11 @@ const metaConfig = {
   title: "Dev Ed",
   description: `Ed's Blog`,
   author: "Ed",
-  siteUrl: "https://gatsby-starter-apple.netlify.app",
+  siteUrl: "https://youngjiin.github.io",
   lang: "en",
   utterances: "sungik-choi/gatsby-starter-apple-comment",
   links: {
-    github: "https://github.com/sungik-choi/gatsby-starter-apple",
+    github: "https://github.com/youngjiin/youngjiin.github.io",
   },
   favicon: "src/images/icon.png",
 }
